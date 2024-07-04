@@ -1,0 +1,340 @@
+[04-Oct-2019 00:32:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/wahw5216/public_html/config/filesystems.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/filesystems.php on line 48
+[04-Oct-2019 07:30:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/mail.php on line 19
+[04-Oct-2019 12:45:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/broadcasting.php on line 18
+[04-Oct-2019 16:58:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/services.php on line 18
+[05-Oct-2019 01:20:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/app.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/app.php on line 28
+[05-Oct-2019 02:10:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/crudbooster.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/crudbooster.php on line 37
+[05-Oct-2019 07:11:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/cache.php on line 18
+[05-Oct-2019 15:28:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/wahw5216/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/view.php on line 17
+[06-Oct-2019 13:05:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/queue.php on line 18
+[06-Oct-2019 23:46:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/session.php on line 19
+[06-Oct-2019 23:47:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/database.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/database.php on line 29
+[11-Oct-2019 22:27:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/wahw5216/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/view.php on line 17
+[11-Oct-2019 23:19:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/services.php on line 18
+[12-Oct-2019 05:15:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/crudbooster.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/crudbooster.php on line 37
+[23-Oct-2019 20:09:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/services.php on line 18
+[23-Oct-2019 20:09:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/broadcasting.php on line 18
+[23-Oct-2019 20:09:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/queue.php on line 18
+[23-Oct-2019 20:09:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/wahw5216/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/view.php on line 17
+[23-Oct-2019 20:09:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/cache.php on line 18
+[23-Oct-2019 20:09:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/database.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/database.php on line 29
+[23-Oct-2019 20:09:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/app.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/app.php on line 28
+[23-Oct-2019 20:09:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/session.php on line 19
+[23-Oct-2019 20:09:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/crudbooster.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/crudbooster.php on line 37
+[23-Oct-2019 20:10:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/wahw5216/public_html/config/filesystems.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/filesystems.php on line 48
+[23-Oct-2019 20:10:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/mail.php on line 19
+[18-Nov-2019 23:28:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/mail.php on line 19
+[19-Nov-2019 02:30:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/database.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/database.php on line 29
+[19-Nov-2019 03:22:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/database.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/database.php on line 29
+[19-Nov-2019 19:27:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/wahw5216/public_html/config/filesystems.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/filesystems.php on line 48
+[20-Nov-2019 13:03:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/session.php on line 19
+[23-Dec-2019 18:05:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/app.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/app.php on line 28
+[30-Dec-2019 20:38:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/mail.php on line 19
+[30-Dec-2019 21:21:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/mail.php on line 19
+[30-Dec-2019 21:49:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/mail.php on line 19
+[31-Dec-2019 01:13:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/wahw5216/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/view.php on line 17
+[02-Jan-2020 01:59:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/app.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/app.php on line 28
+[02-Jan-2020 08:04:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/session.php on line 19
+[02-Jan-2020 08:58:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/services.php on line 18
+[02-Jan-2020 18:24:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/cache.php on line 18
+[02-Jan-2020 19:03:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/queue.php on line 18
+[03-Jan-2020 00:04:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/database.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/database.php on line 29
+[03-Jan-2020 06:40:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/wahw5216/public_html/config/filesystems.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/filesystems.php on line 48
+[05-Jan-2020 19:55:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/mail.php on line 19
+[06-Jan-2020 01:03:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/broadcasting.php on line 18
+[06-Jan-2020 04:30:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/services.php on line 18
+[06-Jan-2020 12:37:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/app.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/app.php on line 28
+[06-Jan-2020 13:20:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/crudbooster.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/crudbooster.php on line 37
+[06-Jan-2020 18:08:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/cache.php on line 18
+[07-Jan-2020 02:18:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/wahw5216/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/view.php on line 17
+[07-Jan-2020 21:34:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/queue.php on line 18
+[08-Jan-2020 07:32:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/database.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/database.php on line 29
+[08-Jan-2020 07:33:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/session.php on line 19
+[03-Apr-2020 01:39:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/wahw5216/public_html/config/filesystems.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/filesystems.php on line 48
+[06-Apr-2020 18:39:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/mail.php on line 19
+[07-Apr-2020 00:06:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/broadcasting.php on line 18
+[07-Apr-2020 04:03:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/services.php on line 18
+[07-Apr-2020 12:40:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/app.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/app.php on line 28
+[07-Apr-2020 13:27:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/crudbooster.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/crudbooster.php on line 37
+[07-Apr-2020 18:41:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/cache.php on line 18
+[08-Apr-2020 03:16:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/wahw5216/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/view.php on line 17
+[09-Apr-2020 01:14:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/queue.php on line 18
+[09-Apr-2020 12:43:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/database.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/database.php on line 29
+[09-Apr-2020 12:43:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/session.php on line 19
+[05-May-2020 11:08:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/wahw5216/public_html/config/filesystems.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/filesystems.php on line 48
+[05-May-2020 12:52:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/queue.php on line 18
+[06-May-2020 21:26:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/app.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/app.php on line 28
+[08-May-2020 06:11:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/cache.php on line 18
+[09-May-2020 07:45:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/mail.php on line 19
+[09-May-2020 15:00:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/services.php on line 18
+[09-May-2020 15:10:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/database.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/database.php on line 29
+[09-May-2020 17:50:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/wahw5216/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/view.php on line 17
+[09-May-2020 21:28:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/session.php on line 19
+[05-Jul-2020 15:14:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/wahw5216/public_html/config/filesystems.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/filesystems.php on line 48
+[07-Jul-2020 02:44:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/wahw5216/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/view.php on line 17
+[09-Jul-2020 04:45:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/mail.php on line 19
+[09-Jul-2020 09:43:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/broadcasting.php on line 18
+[09-Jul-2020 13:24:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/services.php on line 18
+[09-Jul-2020 20:53:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/app.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/app.php on line 28
+[09-Jul-2020 21:41:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/crudbooster.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/crudbooster.php on line 37
+[10-Jul-2020 02:09:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/cache.php on line 18
+[11-Jul-2020 05:20:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/queue.php on line 18
+[11-Jul-2020 15:18:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/database.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/database.php on line 29
+[11-Jul-2020 15:18:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/session.php on line 19
+[12-Jul-2020 16:07:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/broadcasting.php on line 18
+[12-Jul-2020 20:34:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/wahw5216/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/config/services.php on line 18

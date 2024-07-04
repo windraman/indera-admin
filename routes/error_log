@@ -1,0 +1,100 @@
+[04-Oct-2019 03:11:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/wahw5216/public_html/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/routes/web.php on line 14
+[06-Oct-2019 11:25:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/wahw5216/public_html/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/routes/api.php on line 16
+[06-Oct-2019 22:01:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/wahw5216/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/routes/console.php on line 16
+[12-Oct-2019 06:56:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/wahw5216/public_html/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/routes/web.php on line 14
+[12-Oct-2019 10:26:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/wahw5216/public_html/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/routes/api.php on line 16
+[23-Oct-2019 20:09:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/wahw5216/public_html/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/routes/web.php on line 14
+[23-Oct-2019 20:09:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/wahw5216/public_html/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/routes/api.php on line 16
+[23-Oct-2019 20:09:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/wahw5216/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/routes/console.php on line 16
+[24-Nov-2019 15:44:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/wahw5216/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/routes/console.php on line 16
+[31-Dec-2019 19:24:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/wahw5216/public_html/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/routes/api.php on line 16
+[31-Dec-2019 19:31:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/wahw5216/public_html/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/routes/api.php on line 16
+[02-Jan-2020 01:05:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/wahw5216/public_html/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/routes/web.php on line 14
+[02-Jan-2020 05:21:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/wahw5216/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/routes/console.php on line 16
+[02-Jan-2020 07:42:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/wahw5216/public_html/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/routes/web.php on line 14
+[07-Jan-2020 19:42:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/wahw5216/public_html/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/routes/api.php on line 16
+[08-Jan-2020 06:01:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/wahw5216/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/routes/console.php on line 16
+[03-Apr-2020 04:04:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/wahw5216/public_html/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/routes/web.php on line 14
+[08-Apr-2020 23:33:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/wahw5216/public_html/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/routes/api.php on line 16
+[09-Apr-2020 10:45:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/wahw5216/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/routes/console.php on line 16
+[06-May-2020 00:04:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/wahw5216/public_html/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/routes/api.php on line 16
+[06-May-2020 13:19:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/wahw5216/public_html/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/routes/web.php on line 14
+[09-May-2020 19:44:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/wahw5216/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/routes/console.php on line 16
+[05-Jul-2020 17:35:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/wahw5216/public_html/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/routes/web.php on line 14
+[11-Jul-2020 03:22:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/wahw5216/public_html/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/routes/api.php on line 16
+[11-Jul-2020 13:50:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/wahw5216/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/routes/console.php on line 16

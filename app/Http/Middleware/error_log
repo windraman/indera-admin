@@ -1,0 +1,8 @@
+[16-Oct-2019 13:31:43 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/wahw5216/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[19-Oct-2019 08:05:51 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/wahw5216/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[16-Jan-2020 22:47:39 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/wahw5216/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[19-Jan-2020 06:45:26 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/wahw5216/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[18-Apr-2020 18:55:19 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/wahw5216/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[21-Apr-2020 01:49:39 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/wahw5216/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[20-Jul-2020 11:11:27 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/wahw5216/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[22-Jul-2020 18:20:29 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/wahw5216/public_html/app/Http/Middleware/EncryptCookies.php on line 7

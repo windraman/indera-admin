@@ -1,0 +1,8 @@
+[08-Oct-2019 13:22:44 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/wahw5216/public_html/database/seeds/DatabaseSeeder.php on line 5
+[09-Oct-2019 06:22:19 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/wahw5216/public_html/database/seeds/CBSeeder.php on line 5
+[09-Jan-2020 17:34:15 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/wahw5216/public_html/database/seeds/DatabaseSeeder.php on line 5
+[10-Jan-2020 09:04:55 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/wahw5216/public_html/database/seeds/CBSeeder.php on line 5
+[11-Apr-2020 03:37:06 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/wahw5216/public_html/database/seeds/DatabaseSeeder.php on line 5
+[11-Apr-2020 21:22:40 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/wahw5216/public_html/database/seeds/CBSeeder.php on line 5
+[13-Jul-2020 03:55:47 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/wahw5216/public_html/database/seeds/DatabaseSeeder.php on line 5
+[13-Jul-2020 20:37:26 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/wahw5216/public_html/database/seeds/CBSeeder.php on line 5

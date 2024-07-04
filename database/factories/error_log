@@ -1,0 +1,20 @@
+[09-Oct-2019 06:22:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/wahw5216/public_html/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/database/factories/ModelFactory.php on line 15
+[13-Nov-2019 23:00:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/wahw5216/public_html/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/database/factories/ModelFactory.php on line 15
+[10-Jan-2020 09:04:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/wahw5216/public_html/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/database/factories/ModelFactory.php on line 15
+[11-Apr-2020 21:21:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/wahw5216/public_html/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/database/factories/ModelFactory.php on line 15
+[13-Jul-2020 20:37:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/wahw5216/public_html/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/wahw5216/public_html/database/factories/ModelFactory.php on line 15

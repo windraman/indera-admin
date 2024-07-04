@@ -1,0 +1,4 @@
+[14-Oct-2019 23:31:16 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/wahw5216/public_html/app/Http/Kernel.php on line 7
+[15-Jan-2020 14:22:01 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/wahw5216/public_html/app/Http/Kernel.php on line 7
+[17-Apr-2020 11:03:09 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/wahw5216/public_html/app/Http/Kernel.php on line 7
+[19-Jul-2020 03:58:12 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/wahw5216/public_html/app/Http/Kernel.php on line 7

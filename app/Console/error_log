@@ -1,0 +1,4 @@
+[12-Oct-2019 07:21:57 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/wahw5216/public_html/app/Console/Kernel.php on line 8
+[09-Jan-2020 22:38:51 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/wahw5216/public_html/app/Console/Kernel.php on line 8
+[11-Apr-2020 08:54:31 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/wahw5216/public_html/app/Console/Kernel.php on line 8
+[13-Jul-2020 08:51:19 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/wahw5216/public_html/app/Console/Kernel.php on line 8

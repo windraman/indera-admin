@@ -1,0 +1,12 @@
+[06-Nov-2019 10:30:37 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/wahw5216/public_html/app/Http/Controllers/Auth/LoginController.php on line 8
+[11-Nov-2019 13:41:27 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/wahw5216/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 8
+[12-Nov-2019 11:45:51 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/wahw5216/public_html/app/Http/Controllers/Auth/RegisterController.php on line 10
+[28-Nov-2019 13:22:15 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/wahw5216/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[11-Feb-2020 23:08:36 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/wahw5216/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 8
+[12-Feb-2020 18:46:35 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/wahw5216/public_html/app/Http/Controllers/Auth/RegisterController.php on line 10
+[16-Feb-2020 19:05:48 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/wahw5216/public_html/app/Http/Controllers/Auth/LoginController.php on line 8
+[03-Mar-2020 17:58:05 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/wahw5216/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[12-May-2020 17:55:03 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/wahw5216/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 8
+[17-May-2020 01:50:47 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/wahw5216/public_html/app/Http/Controllers/Auth/RegisterController.php on line 10
+[18-May-2020 00:43:43 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/wahw5216/public_html/app/Http/Controllers/Auth/LoginController.php on line 8
+[12-Aug-2020 19:02:12 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/wahw5216/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 8

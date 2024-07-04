@@ -1,0 +1,4 @@
+[13-Oct-2019 00:45:47 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/wahw5216/public_html/app/Exceptions/Handler.php on line 9
+[13-Jan-2020 21:14:33 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/wahw5216/public_html/app/Exceptions/Handler.php on line 9
+[15-Apr-2020 15:46:17 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/wahw5216/public_html/app/Exceptions/Handler.php on line 9
+[17-Jul-2020 09:45:36 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/wahw5216/public_html/app/Exceptions/Handler.php on line 9
